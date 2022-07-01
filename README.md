@@ -1,1 +1,1 @@
-# star-war-pygame
+# star-wars-pygame
