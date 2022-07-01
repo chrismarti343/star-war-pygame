@@ -1,7 +1,5 @@
 # Overview
 
-{Provide a description the game that you wrote. Describe how to play your game.}
-
 I took the Galaga game as inspiration to make this game. The purpose of the game is to shoot the enemy spaceships. There is a main spaceship in the bottom middle of the screen. Players are able to control the main spaceship with the keys "A, S, D, W." They will allow players to move forward, backward, right, and left. The player can use the space bar to shoot missiles at the enemy spaceships. Enemy spaceships also shoot missiles. Players have two lives. In every life, they can be shot five times. A bar will be underneath the main spaceship showing how much life the main spaceship has til the player lose. As the player pass to the next level, the player will see more enemy spaceships on the screen making it more difficult to defeat them. 
 
 The purpose of this game is to show how to use pygame. Pygame is a multi-platform that works with python. In this game I practice the use of classes, for loops, sending variables to other classes, and some image manipulation. 
