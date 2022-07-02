@@ -5,7 +5,7 @@ I took the Galaga game as inspiration to make this game. The purpose of the game
 The purpose of this game is to show how to use pygame. Pygame is a multi-platform that works with python. In this game I practice the use of classes, for loops, sending variables to other classes, and some image manipulation. 
 
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/Iorwr0semj0)
 
 # Development Environment
 
