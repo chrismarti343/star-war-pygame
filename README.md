@@ -9,12 +9,12 @@ The purpose of this game is to show how to use pygame. Pygame is a multi-platfor
 
 # Development Environment
 
-###Tools
+### Tools
 
 * Guthub: Is the provider of internet hosting to save my code and manipulate my code online.
 * Visual Studio Code: Visual Studio Code, also commonly referred to as VS Code, is a source-code editor made by Microsoft for Windows, Linux and macOS. Features include support for debugging, syntax highlighting, intelligent code completion, snippets, code refactoring, and embedded Git.
 
-###Programing Leanguages and Libraries
+### Programing Leanguages and Libraries
 
 * Pygame: Pygame is a cross-platform set of Python modules designed for writing video games. It includes computer graphics and sound libraries designed to be used with the Python programming language.
 * Python: Python is a high-level, interpreted, general-purpose programming language. Its design philosophy emphasizes code readability with the use of significant indentation. Python is dynamically-typed and garbage-collected.
